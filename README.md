@@ -19,6 +19,7 @@ Using this template is pretty simple:
 ```console
 $ git clone git://github.com/alessandro1997/nanoc-skeleton.git
 $ cd nanoc-skeleton
+$ bundle install
 $ nanoc
 ```
 
