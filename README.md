@@ -73,7 +73,7 @@ Nice, right?
 
 ## Authors
 
-nanoc-skeleton is developed and mainatained by [Alessandro Desantis](http://alessandro1997.github.io).
+nanoc-skeleton is developed and mantained by [Alessandro Desantis](http://alessandro1997.github.io).
 
 ## License
 
