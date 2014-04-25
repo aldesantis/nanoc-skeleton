@@ -8,9 +8,9 @@ template for the [nanoc](https://nanoc.ws) static website generator.
 
 This starter template provides the following features out of the box:
 
-    - [Compass](http://compass-style.org/)
-    - [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
-    - [Bootstrap's JavaScript](getbootstrap.com/javascript) (through a CDN)
+  - [Compass](http://compass-style.org/)
+  - [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
+  - [Bootstrap's JavaScript](getbootstrap.com/javascript) (through a CDN)
 
 ## Usage
 
