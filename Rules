@@ -32,7 +32,7 @@ compile '*' do
   end
 end
 
-route '/assets/_*' do
+route '/assets/**/_*' do
   nil
 end
 
