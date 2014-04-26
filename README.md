@@ -11,6 +11,7 @@ This starter template provides the following features out of the box:
   - [Compass](http://compass-style.org/)
   - [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
   - [Bootstrap's JavaScript](http://getbootstrap.com/javascript) (through a CDN)
+  - [guard-nanoc](https://github.com/guard/guard-nanoc)
 
 ## Usage
 
@@ -20,13 +21,15 @@ Using this template is pretty simple:
 $ git clone git://github.com/alessandro1997/nanoc-skeleton.git
 $ cd nanoc-skeleton
 $ bundle install
-$ nanoc
+$ bundle exec guard nanoc
 ```
 
-This will compile your new shining nanoc site. To start a web server run:
+This will compile your new shining nanoc site and start watching for changes.
+
+To start a web server run:
 
 ```console
-$ nanoc view
+$ bundle exec nanoc view
 ```
 
 You can now access your site at [http://localhost:3000](http://localhost:3000)!
