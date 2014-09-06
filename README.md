@@ -21,7 +21,7 @@ Using this template is pretty simple:
 $ git clone git://github.com/alessandro1997/nanoc-skeleton.git
 $ cd nanoc-skeleton
 $ bundle install
-$ bundle exec guard nanoc
+$ bundle exec guard
 ```
 
 This will compile your new shining nanoc site and start watching for changes.
