@@ -1,6 +1,8 @@
 nanoc-skeleton
 ==============
 
+[![Dependency Status](https://gemnasium.com/alessandro1997/nanoc-skeleton.svg)](https://gemnasium.com/alessandro1997/nanoc-skeleton)
+
 [nanoc-skeleton](https://github.com/alessandro1997/nanoc-skeleton) is a starter
 template for the [nanoc](https://nanoc.ws) static website generator.
 
